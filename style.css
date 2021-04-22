@@ -1,0 +1,17 @@
+.project-tile {
+  position: relative;
+  height: 240px;
+  width: 240px;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: black;
+  border: 1px solid blue;
+  color: white;
+}
+
+#aurora {
+  background-image: url("img/aurora_bg.jpeg");
+  background-position: center center;
+  background-color: black;
+  background-size: cover;
+}
