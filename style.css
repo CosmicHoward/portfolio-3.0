@@ -5,22 +5,48 @@
   margin-bottom: 10px;
   text-align: center;
   background-color: black;
-  border: 1px solid blue;
   color: white;
 }
 
-.project-tile-button {
-
-
-  margin-top: 5px;
-
-
+.project-buttons {
+  padding: 18px 0;
+  text-align: center;
 
 }
+
 
 #aurora {
   background-image: url("img/aurora_bg.jpeg");
   background-position: center center;
   background-color: black;
   background-size: cover;
+}
+
+#newtab:hover {
+  background-image: url("img/notetaker.jpg");
+}
+
+#google:hover {
+  background-image: url("img/google.jpg");
+}
+
+#stylewarp:hover {
+  background-image: url("img/stylewarp.jpg");
+}
+
+#elitelevelgames:hover{
+  background-image: url("img/elg.jpg");
+}
+
+#ziryab:hover {
+  background-image: url("img/ziryab.jpg");
+}
+
+#battleship:hover {
+  background-image: url("img/battleship.jpg");
+
+}
+
+#survey:hover {
+  background-image: url("img/gamesurvey.jpg");
 }
